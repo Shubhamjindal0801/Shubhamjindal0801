@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning DevOps<br>💬 Ask me about anything Web Releated
+🔭 I’m currently working as a Software Engineer in Glance(Inmobi)<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning DevOps<br>💬 Ask me about anything Web Releated
 
 
 ## 🌐 Socials:
